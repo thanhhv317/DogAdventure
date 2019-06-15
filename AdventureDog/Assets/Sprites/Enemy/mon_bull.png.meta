@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 2957d6963da58f140820cd529ac333a8
+timeCreated: 1511163522
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mon_bull_0
+    21300002: mon_bull_1
+    21300004: mon_bull_2
+    21300006: mon_bull_3
+    21300008: mon_bull_4
+    21300010: mon_bull_15
+    21300012: mon_bull_16
+    21300014: mon_bull_17
+    21300016: mon_bull_18
+    21300018: mon_bull_19
+    21300020: mon_bull_20
+    21300022: mon_bull_34
+    21300024: mon_bull_35
+    21300026: mon_bull_36
+    21300028: mon_bull_37
+    21300030: mon_bull_38
+    21300032: mon_bull_39
+    21300034: mon_bull_40
+    21300036: mon_bull_41
+    21300038: mon_bull_42
+    21300040: mon_bull_43
+    21300042: mon_bull_44
+    21300044: mon_bull_48
+    21300046: mon_bull_49
+    21300048: mon_bull_50
+    21300050: mon_bull_51
+    21300052: mon_bull_65
+    21300054: mon_bull_66
+    21300056: mon_bull_67
+    21300058: mon_bull_68
+    21300060: mon_bull_69
+    21300062: mon_bull_70
+    21300064: mon_bull_73
+    21300066: mon_bull_79
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon_bull_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1549
+        width: 201
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1549
+        width: 194
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1549
+        width: 185
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1549
+        width: 181
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_4
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1549
+        width: 212
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1217
+        width: 185
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1217
+        width: 166
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1217
+        width: 164
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_18
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1217
+        width: 199
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1218
+        width: 182
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_20
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1219
+        width: 160
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 866
+        width: 180
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 856
+        width: 235
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 861
+        width: 245
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_37
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 859
+        width: 249
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_38
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 861
+        width: 233
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_39
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 856
+        width: 240
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_40
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 855
+        width: 233
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_41
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 866
+        width: 202
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_42
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 866
+        width: 181
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 493
+        width: 255
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 493
+        width: 206
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 493
+        width: 256
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_49
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 482
+        width: 306
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_50
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 482
+        width: 305
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_51
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 493
+        width: 211
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 110
+        width: 243
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 111
+        width: 300
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_67
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 103
+        width: 285
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_68
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 103
+        width: 284
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_69
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 102
+        width: 266
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_70
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 102
+        width: 278
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon_bull_79
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

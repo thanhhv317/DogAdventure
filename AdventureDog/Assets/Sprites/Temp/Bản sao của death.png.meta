@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 95610fd06f7794a498ac9b426583017c
+timeCreated: 1511162176
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "B\u1EA3n sao c\u1EE7a death_0"
+    21300002: "B\u1EA3n sao c\u1EE7a death_1"
+    21300004: "B\u1EA3n sao c\u1EE7a death_2"
+    21300006: "B\u1EA3n sao c\u1EE7a death_3"
+    21300008: "B\u1EA3n sao c\u1EE7a death_4"
+    21300010: "B\u1EA3n sao c\u1EE7a death_5"
+    21300012: "B\u1EA3n sao c\u1EE7a death_6"
+    21300014: "B\u1EA3n sao c\u1EE7a death_7"
+    21300016: "B\u1EA3n sao c\u1EE7a death_8"
+    21300018: "B\u1EA3n sao c\u1EE7a death_9"
+    21300020: "B\u1EA3n sao c\u1EE7a death_10"
+    21300022: "B\u1EA3n sao c\u1EE7a death_11"
+    21300024: "B\u1EA3n sao c\u1EE7a death_12"
+    21300026: "B\u1EA3n sao c\u1EE7a death_13"
+    21300028: "B\u1EA3n sao c\u1EE7a death_15"
+    21300030: "B\u1EA3n sao c\u1EE7a death_23"
+    21300032: "B\u1EA3n sao c\u1EE7a death_14"
+    21300034: "B\u1EA3n sao c\u1EE7a death_16"
+    21300036: "B\u1EA3n sao c\u1EE7a death_17"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_0"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 486
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_1"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 466
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_2"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 448
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_3"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 434
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_4"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 426
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_5"
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 422
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_6"
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 430
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_7"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 286
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_8"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 266
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_9"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 255
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_10"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 248
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_11"
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 243
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_12"
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 238
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_13"
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 230
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_15"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 48
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_23"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 66
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_14"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 30
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_16"
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 23
+        width: 141
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a death_17"
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 21
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

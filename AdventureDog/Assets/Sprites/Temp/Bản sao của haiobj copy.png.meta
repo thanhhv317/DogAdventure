@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 74d8200afdeee924eabe26c5ff1f4e9f
+timeCreated: 1510578472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "B\u1EA3n sao c\u1EE7a haiobj copy_0"
+    21300002: "B\u1EA3n sao c\u1EE7a haiobj copy_1"
+    21300004: "B\u1EA3n sao c\u1EE7a haiobj copy_2"
+    21300006: "B\u1EA3n sao c\u1EE7a haiobj copy_3"
+    21300008: "B\u1EA3n sao c\u1EE7a haiobj copy_4"
+    21300010: "B\u1EA3n sao c\u1EE7a haiobj copy_5"
+    21300012: "B\u1EA3n sao c\u1EE7a haiobj copy_6"
+    21300014: "B\u1EA3n sao c\u1EE7a haiobj copy_7"
+    21300016: "B\u1EA3n sao c\u1EE7a haiobj copy_8"
+    21300018: "B\u1EA3n sao c\u1EE7a haiobj copy_9"
+    21300020: "B\u1EA3n sao c\u1EE7a haiobj copy_10"
+    21300022: "B\u1EA3n sao c\u1EE7a haiobj copy_11"
+    21300024: "B\u1EA3n sao c\u1EE7a haiobj copy_12"
+    21300026: "B\u1EA3n sao c\u1EE7a haiobj copy_13"
+    21300028: "B\u1EA3n sao c\u1EE7a haiobj copy_14"
+    21300030: "B\u1EA3n sao c\u1EE7a haiobj copy_15"
+    21300032: "B\u1EA3n sao c\u1EE7a haiobj copy_16"
+    21300034: "B\u1EA3n sao c\u1EE7a haiobj copy_17"
+    21300036: "B\u1EA3n sao c\u1EE7a haiobj copy_18"
+    21300038: "B\u1EA3n sao c\u1EE7a haiobj copy_19"
+    21300040: "B\u1EA3n sao c\u1EE7a haiobj copy_20"
+    21300042: "B\u1EA3n sao c\u1EE7a haiobj copy_21"
+    21300044: "B\u1EA3n sao c\u1EE7a haiobj copy_22"
+    21300046: "B\u1EA3n sao c\u1EE7a haiobj copy_23"
+    21300048: "B\u1EA3n sao c\u1EE7a haiobj copy_24"
+    21300050: "B\u1EA3n sao c\u1EE7a haiobj copy_25"
+    21300052: "B\u1EA3n sao c\u1EE7a haiobj copy_26"
+    21300054: "B\u1EA3n sao c\u1EE7a haiobj copy_27"
+    21300056: "B\u1EA3n sao c\u1EE7a haiobj copy_28"
+    21300058: "B\u1EA3n sao c\u1EE7a haiobj copy_29"
+    21300060: "B\u1EA3n sao c\u1EE7a haiobj copy_30"
+    21300062: "B\u1EA3n sao c\u1EE7a haiobj copy_31"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_0"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 760
+        width: 156
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_1"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 754
+        width: 217
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_2"
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 754
+        width: 202
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_3"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 754
+        width: 171
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_4"
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 757
+        width: 158
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_5"
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 768
+        width: 283
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_6"
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 769
+        width: 278
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_7"
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 785
+        width: 151
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_8"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 537
+        width: 188
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_9"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 551
+        width: 129
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_10"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 517
+        width: 159
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_11"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 521
+        width: 107
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_12"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 522
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_13"
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 527
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_14"
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 532
+        width: 133
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_15"
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 543
+        width: 178
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_16"
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 543
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_17"
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 429
+        width: 315
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_18"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 373
+        width: 272
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_19"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 373
+        width: 230
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_20"
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 390
+        width: 174
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_21"
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 388
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_22"
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 331
+        width: 273
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_23"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 83
+        width: 242
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_24"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 222
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_25"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 222
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_26"
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 222
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_27"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 155
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_28"
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 155
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_29"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 155
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_30"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 83
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a haiobj copy_31"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 88
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

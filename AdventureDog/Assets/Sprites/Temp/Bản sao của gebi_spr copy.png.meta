@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: 86d7bf74c0d794b478fe968c59da3f79
+timeCreated: 1510578458
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "B\u1EA3n sao c\u1EE7a gebi_spr copy_0"
+    21300002: "B\u1EA3n sao c\u1EE7a gebi_spr copy_1"
+    21300004: "B\u1EA3n sao c\u1EE7a gebi_spr copy_2"
+    21300006: "B\u1EA3n sao c\u1EE7a gebi_spr copy_3"
+    21300008: "B\u1EA3n sao c\u1EE7a gebi_spr copy_4"
+    21300010: "B\u1EA3n sao c\u1EE7a gebi_spr copy_5"
+    21300012: "B\u1EA3n sao c\u1EE7a gebi_spr copy_6"
+    21300014: "B\u1EA3n sao c\u1EE7a gebi_spr copy_7"
+    21300016: "B\u1EA3n sao c\u1EE7a gebi_spr copy_8"
+    21300018: "B\u1EA3n sao c\u1EE7a gebi_spr copy_9"
+    21300020: "B\u1EA3n sao c\u1EE7a gebi_spr copy_10"
+    21300022: "B\u1EA3n sao c\u1EE7a gebi_spr copy_11"
+    21300024: "B\u1EA3n sao c\u1EE7a gebi_spr copy_12"
+    21300026: "B\u1EA3n sao c\u1EE7a gebi_spr copy_13"
+    21300028: "B\u1EA3n sao c\u1EE7a gebi_spr copy_14"
+    21300030: "B\u1EA3n sao c\u1EE7a gebi_spr copy_15"
+    21300032: "B\u1EA3n sao c\u1EE7a gebi_spr copy_16"
+    21300034: "B\u1EA3n sao c\u1EE7a gebi_spr copy_17"
+    21300036: "B\u1EA3n sao c\u1EE7a gebi_spr copy_18"
+    21300038: "B\u1EA3n sao c\u1EE7a gebi_spr copy_19"
+    21300040: "B\u1EA3n sao c\u1EE7a gebi_spr copy_20"
+    21300042: "B\u1EA3n sao c\u1EE7a gebi_spr copy_21"
+    21300044: "B\u1EA3n sao c\u1EE7a gebi_spr copy_22"
+    21300046: "B\u1EA3n sao c\u1EE7a gebi_spr copy_23"
+    21300048: "B\u1EA3n sao c\u1EE7a gebi_spr copy_24"
+    21300050: "B\u1EA3n sao c\u1EE7a gebi_spr copy_25"
+    21300052: "B\u1EA3n sao c\u1EE7a gebi_spr copy_26"
+    21300054: "B\u1EA3n sao c\u1EE7a gebi_spr copy_27"
+    21300056: "B\u1EA3n sao c\u1EE7a gebi_spr copy_28"
+    21300058: "B\u1EA3n sao c\u1EE7a gebi_spr copy_29"
+    21300060: "B\u1EA3n sao c\u1EE7a gebi_spr copy_30"
+    21300062: "B\u1EA3n sao c\u1EE7a gebi_spr copy_31"
+    21300064: "B\u1EA3n sao c\u1EE7a gebi_spr copy_32"
+    21300066: "B\u1EA3n sao c\u1EE7a gebi_spr copy_33"
+    21300068: "B\u1EA3n sao c\u1EE7a gebi_spr copy_34"
+    21300070: "B\u1EA3n sao c\u1EE7a gebi_spr copy_35"
+    21300072: "B\u1EA3n sao c\u1EE7a gebi_spr copy_36"
+    21300074: "B\u1EA3n sao c\u1EE7a gebi_spr copy_37"
+    21300076: "B\u1EA3n sao c\u1EE7a gebi_spr copy_38"
+    21300078: "B\u1EA3n sao c\u1EE7a gebi_spr copy_39"
+    21300080: "B\u1EA3n sao c\u1EE7a gebi_spr copy_40"
+    21300082: "B\u1EA3n sao c\u1EE7a gebi_spr copy_41"
+    21300084: "B\u1EA3n sao c\u1EE7a gebi_spr copy_42"
+    21300086: "B\u1EA3n sao c\u1EE7a gebi_spr copy_43"
+    21300088: "B\u1EA3n sao c\u1EE7a gebi_spr copy_44"
+    21300090: "B\u1EA3n sao c\u1EE7a gebi_spr copy_45"
+    21300092: "B\u1EA3n sao c\u1EE7a gebi_spr copy_46"
+    21300094: "B\u1EA3n sao c\u1EE7a gebi_spr copy_47"
+    21300096: "B\u1EA3n sao c\u1EE7a gebi_spr copy_48"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_0"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1330
+        width: 141
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_1"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1346
+        width: 116
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_2"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1346
+        width: 163
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_3"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1347
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_4"
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1347
+        width: 185
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_5"
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1347
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_6"
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1347
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_7"
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1347
+        width: 118
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_8"
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1355
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_9"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1337
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_10"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1147
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_11"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1147
+        width: 152
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_12"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1141
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_13"
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1142
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_14"
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1135
+        width: 165
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_15"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1162
+        width: 236
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_16"
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1163
+        width: 105
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_17"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1135
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_18"
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1157
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_19"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 942
+        width: 57
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_20"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 958
+        width: 166
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_21"
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 955
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_22"
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1070
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_23"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 942
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_24"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 950
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_25"
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 966
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_26"
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 960
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_27"
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 960
+        width: 121
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_28"
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 960
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_29"
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 966
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_30"
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 958
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_31"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 645
+        width: 121
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_32"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 575
+        width: 279
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_33"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 617
+        width: 262
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_34"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 661
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_35"
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 685
+        width: 288
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_36"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 357
+        width: 112
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_37"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 582
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_38"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 180
+        width: 432
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_39"
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 214
+        width: 277
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_40"
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 369
+        width: 192
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_41"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 145
+        width: 153
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_42"
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 16
+        width: 144
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_43"
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 97
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_44"
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 97
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_45"
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 97
+        width: 81
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_46"
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 49
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_47"
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 51
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "B\u1EA3n sao c\u1EE7a gebi_spr copy_48"
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
